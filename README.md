@@ -1,6 +1,6 @@
 [![Header](https://i.imgur.com/GXSu3wC.jpg)](https://www.pixiv.net/en/artworks/79939619)
 # ℹ️ About me ![](https://komarev.com/ghpvc/?username=arahiko-ayami)
-Hi there, I am Arahiko, now I'm a second-year student, my major is Information Security, but I also interested in coding and making programs. I'm an anime-related content enthusiast, too~
+Hi there, I am Arahiko, now I'm a second-year student, my major is Information Security, but I'm also interested in coding and making programs. I'm an anime-related content enthusiast, too~
 <br/><br/>
 If you have anything you want me to do, feel free to contact me. I will leave my contact info below!
 <br/><br/>
