@@ -41,8 +41,10 @@ If you have anything you want me to do, feel free to contact me. I will leave my
 ![](https://img.shields.io/badge/Lenovo-Legion_Y540-000000?style=for-the-badge&logo=lenovo&logoColor=white)
 
 # 🎆 My stats
-![Arahiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=arahiko-ayami&count_private=true&show_icons=true&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arahiko-ayami&theme=monokai)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=arahiko-ayami&count_private=true&show_icons=true&theme=radical"/>
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arahiko-ayami&theme=monokai"/>
+<p/>
 
 # Support me 💰
 * __Paypal__: <a href = "https://paypal.me/arahiko"> arahiko <a/>
