@@ -42,6 +42,7 @@ If you have anything you want me to do, feel free to contact me. I will leave my
 # 🎆 My stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=arahiko-ayami&count_private=true&show_icons=true&theme=radical"/>
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=arahiko&theme=radical"/>
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arahiko-ayami&theme=monokai"/>
 <p/>
 
