@@ -34,7 +34,7 @@ If you have anything you want me to do, feel free to contact me. I will leave my
 ![](https://img.shields.io/badge/Intel-Core_i5_9300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![](https://img.shields.io/badge/RAM-16GB-4287F5?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/Linux-ZorinOS_15.3-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/Linux-ZorinOS_16-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/SSD-120GB-000000.svg?&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/HDD-1TB-000000.svg?&style=for-the-badge&logoColor=white)
 ![](https://img.shields.io/badge/Lenovo-Legion_Y540-000000?style=for-the-badge&logo=lenovo&logoColor=white)
