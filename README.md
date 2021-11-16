@@ -4,7 +4,7 @@ Hi there, I am Arahiko, now I'm a third-year student, my major is Information Se
 <br/><br/>
 If you have anything you want me to do, feel free to contact me. I will leave my contact info below!
 <br/><br/>
-*__Some interesting infos 'bout me__*
+*__Some interesting info 'bout me__*
 * Real name: DELETED
 * D.O.B: *September 18th, 2001*
 * I like: __Playing videogames__, __Aimer's songs__, __Watch animes__, __Read mangas__, __Coding__, etc.
