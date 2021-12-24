@@ -7,7 +7,7 @@ If you have anything you want me to do, feel free to contact me. I will leave my
 *__Some interesting info 'bout me__*
 * Real name: DELETED
 * D.O.B: *September 18th, 2001*
-* I like: __Playing videogames__, __Aimer's songs__, __Watch animes__, __Read mangas__, __Coding__, etc.
+* I like: __Play videogames__, __Aimer's songs__, __Watch animes__, __Read mangas__, __Coding__, etc.
 
 # Contact me ~
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Yoshino.Akii/)
