@@ -28,7 +28,7 @@ If you have anything you want me to do, feel free to contact me. I will leave my
 ![](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 # Workspace Specs 💻
 ![](https://img.shields.io/badge/Intel-Core_i5_9300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
