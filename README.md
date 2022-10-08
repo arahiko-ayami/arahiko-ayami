@@ -9,7 +9,7 @@ I'm an anime-related content enthusiast, too~
 * D.O.B: *September 18th, 2001*
 * I like: __Play videogames__, __Aimer's songs__, __Watch animes__, __Read mangas__, __Coding__, etc.
 * I am a Linux enthusiast (still using Windows parallelly, for gaming)
-* I am working at Web Developer at BHSoft
+* I am working at BHSoft
 ---
 ## 🥪 My "sandwich" stack
 
