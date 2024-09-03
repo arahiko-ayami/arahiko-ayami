@@ -1,15 +1,20 @@
 [![Header](https://i.imgur.com/GZ6rBiG.jpg)](https://www.pixiv.net/en/artworks/101597332)
 ## 🌸 About me
-Hi there, I am Arahiko, now I'm a last year student, my major is Information Security, but I'm also interested in coding and making programs.
-<br/>
-I'm an anime-related content enthusiast, too~
-<br/><br/>
+Hi there, I am Arahiko, a Full-stack Developer at BHSoft, an anime-related content enthusiast.
+
 *__My info__*
 * Real name: Duong Quy Tung
-* D.O.B: *September 18th, 2001*
-* I like: __Play videogames__, __Aimer's songs__, __Watch animes__, __Read mangas__, __Coding__, etc.
-* I am a Linux enthusiast (still using Windows parallelly, for gaming)
-* I am working at BHSoft
+* D.O.B: *September 18th*
+* I am a Linux enthusiast
+* Hobbies: __Gaming__, __Anime__, __Cassette tapes & Cassette devices__
+
+*__What I am currently learning/practicing__*
+* Design Patterns
+* Software Architecture
+* Database optimization & Caching
+* IaC & Cloud Computing
+* and more!
+
 ---
 ## 🥪 My "sandwich" stack
 
