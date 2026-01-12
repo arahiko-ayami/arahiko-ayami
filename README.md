@@ -84,10 +84,10 @@ Hi there, I am Arahiko, a Full-stack Developer at BHSoft, an anime-related conte
     <img src = "https://lanyard.cnrad.dev/api/432381779727351841" alt="Discord"/>
   </a>
   <br/>
-  <img src = "https://github-readme-stats.vercel.app/api?username=arahiko-ayami&count_private=true&show_icons=true&theme=radical"/>
-  <br/>
-  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=arahiko&theme=radical&layout=compact"/>
-  <br/>
+  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=arahiko-ayami&count_private=true&show_icons=true&theme=radical"/> -->
+  <!-- <br/> -->
+  <!-- <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=arahiko&theme=radical&layout=compact"/> -->
+  <!-- <br/> -->
   <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arahiko-ayami&theme=monokai"/>
   <a href="https://app.daily.dev/arahiko"><img src="https://github.com/arahiko-ayami/arahiko-ayami/blob/main/devcard.png" width="400" alt="Arahiko's Dev Card"/></a>
 </div>
