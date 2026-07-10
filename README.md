@@ -1,6 +1,6 @@
 [![Header](https://i.imgur.com/GZ6rBiG.jpg)](https://www.pixiv.net/en/artworks/101597332)
 ## 🌸 About me
-Hi there, I am Arahiko, a Full-stack Developer at BHSoft, an anime-related content enthusiast.
+Hi there, I am Arahiko, a Full-stack Developer, an anime-related content enthusiast.
 
 *__My info__*
 * Real name: Duong Quy Tung
